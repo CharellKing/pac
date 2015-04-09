@@ -4,6 +4,7 @@ It's not my original project. Pac Manager is a gui manager for ssh, ftp, vnc and
 
 I'll modify the project for fit some company's relay system.
 
+The project's official website is "http://sourceforge.net/projects/pacmanager/".
 
 * PAC (Perl Auto Connector), by David Torrejon Vaquerizas (david.tv@gmail.com), is FREE software, released under GNU's GPLv3 license.
 
